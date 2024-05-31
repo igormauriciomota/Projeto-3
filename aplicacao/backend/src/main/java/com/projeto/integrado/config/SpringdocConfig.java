@@ -15,7 +15,7 @@ public class SpringdocConfig {
               .info(new Info().title("API Restful Projeto Integrado")
               .description("Documentação do Projeto Integrado.")
               .version("1.0.0")
-              .license(new License().name("Apache 2.0").url("http://springdoc.org")))
+              .license(new License().name("Apache 2.5").url("https://springdoc.org/")))
               .externalDocs(new ExternalDocumentation()
               .description("Link do Repositório da Aplicação")
               .url("https://github.com/igormauriciomota/Projeto-3"));
