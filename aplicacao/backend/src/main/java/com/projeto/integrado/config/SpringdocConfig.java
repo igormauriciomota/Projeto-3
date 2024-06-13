@@ -1,7 +1,6 @@
 package org.springframework.context.annotation;
 
 import org.springframework.beans.factory.annotation.Configurable;
-import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 import io.swagger.v3.oas.models.ExternalDocumentation;
